@@ -16,7 +16,7 @@ I’m always open to learning, collaboration, and open-source contributions.
 
 Here are some highlights from my work.  
 
-For full details and all projects, check out my Notion page: [Full Projects on Notion](https://www.notion.so/CLOUD-DEVOPS-PROJECTS-22f09ffd7876807b80efdd1dc1c0020b?source=copy_link)
+For full details and all projects, check out my Notion page: [Full Projects on Notion]
 
 - **Medicare Cloud Network Deployment** — Designing and implementing a secure cloud network
 - **End-to-End CI/CD Pipeline** — Containerized web applications using GitHub Actions & AWSz
