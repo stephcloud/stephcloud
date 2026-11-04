@@ -23,10 +23,10 @@ Clients pick a stylist, see real free time slots and pay a deposit to confirm.
 - Paystack deposits (test mode) confirmed by a signed webhook. Replayed webhooks change state only once, and cancellations follow a refund policy.
 - **Stack:** FastAPI, SQLModel, Alembic, PostgreSQL, Redis, Docker on Render · Next.js, TypeScript, Tailwind, shadcn/ui, TanStack Query on Vercel
 
-### EpicBook on AWS: Terraform + Ansible
-[Repo](https://github.com/stephcloud/epicbook-terraform-ansible-deployment)
+### EpicBook on AWS: Terraform + Ansible, deployed by pipeline
+[Infra repo](https://github.com/stephcloud/epicbook-aws-infra) · [Deploy repo](https://github.com/stephcloud/epicbook-aws-deploy)
 
-Terraform provisions the VPC, subnets, security groups, EC2, RDS MySQL and an Elastic IP, and writes the Ansible inventory from its outputs. Ansible then hardens SSH, sets up an Nginx reverse proxy, runs the Node.js app under PM2 and loads the database schema. Secrets are kept in Ansible Vault.
+Infrastructure and deployment live in separate repos, each with its own Azure DevOps pipeline. Terraform provisions the VPC, subnets, routing, security groups, an EC2 instance and RDS MySQL; the pipeline runs `plan`, saves it as an artifact, then applies it. The deploy pipeline runs Ansible roles that set up the server, an Nginx reverse proxy and the app.
 
 ### Petclinic Platform: microservices on EKS with GitOps
 [Repo](https://github.com/stephcloud/petclinic-platform)
