@@ -1,8 +1,8 @@
 ![Stephanie Afunogu, Full-Stack Developer and Cloud & DevOps Engineer](./assets/banner.png)
 
-[![Typing: I build full-stack web apps, then ship them to the cloud](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=C9974F&vCenter=true&width=650&lines=I+build+full-stack+web+apps.;Then+I+ship+and+run+them+in+the+cloud.;FastAPI+%C2%B7+Next.js+%C2%B7+PostgreSQL;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kubernetes)](https://github.com/stephcloud)
+[![Typing: I build full-stack web apps, then ship them to the cloud](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2DD4BF&vCenter=true&width=650&lines=I+build+full-stack+web+apps.;Then+I+ship+and+run+them+in+the+cloud.;FastAPI+%C2%B7+Next.js+%C2%B7+PostgreSQL;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kubernetes)](https://github.com/stephcloud)
 
-![Profile views](https://komarev.com/ghpvc/?username=stephcloud&label=Profile%20views&color=c9974f&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=stephcloud&label=Profile%20views&color=2dd4bf&style=flat)
 
 ## 👋 About me
 
