@@ -1,4 +1,4 @@
-![Stephanie Afunogu, Full-Stack Developer and Cloud & DevOps Engineer](./assets/banner.png)
+![Stephanie Afunogu, Full-Stack Developer and Cloud & DevOps Engineer](./assets/banner-2.png)
 
 [![Typing: I build full-stack web apps, then ship them to the cloud](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2DD4BF&vCenter=true&width=650&lines=I+build+full-stack+web+apps.;Then+I+ship+and+run+them+in+the+cloud.;FastAPI+%C2%B7+Next.js+%C2%B7+PostgreSQL;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kubernetes)](https://github.com/stephcloud)
 
